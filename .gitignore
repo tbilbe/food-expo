@@ -9,6 +9,6 @@ npm-debug.*
 *.orig.*
 web-build/
 .env
-api/yelp.js
+src/api/yelp.js
 # macOS
 .DS_Store
